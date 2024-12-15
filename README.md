@@ -1,4 +1,4 @@
-# NINT-CONNECTOR-HDR-V0
+f# NINT-CONNECTOR-HDR-V0
 > 1.0 | Request to upload 12.14.24$ 8:55 PM PST 
 Run the compiled binary:
 
@@ -30,7 +30,7 @@ Fork the repository.
 Create a new branch for your feature or bugfix.
 Submit a pull request with a detailed description of your changes.
 License
-This project is licensed under the MIT License.
+This project is licensed under the APACHE License.
 
 Acknowledgments
 Inspired by the retro gaming community.
